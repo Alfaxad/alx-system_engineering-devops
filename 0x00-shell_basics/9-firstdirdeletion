@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 rmdir  /tmp/holberton
+=======
+rm -r /tmp/holberton
+>>>>>>> d184b518233942312453e4e58c186f95a8fdd510

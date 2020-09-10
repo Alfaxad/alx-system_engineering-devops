@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 mkdir /tmp/holberton/
+=======
+mkdir /tmp/holberton
+>>>>>>> d184b518233942312453e4e58c186f95a8fdd510
