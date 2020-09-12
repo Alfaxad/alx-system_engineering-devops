@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-# This script is displaying filename list
-for filename in *
-	do
-		echo "$filename" | cut -d- -f2-
-	done
